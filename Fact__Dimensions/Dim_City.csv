@@ -1,0 +1,307 @@
+CityKey,City,State,Continent,CountryKey
+1,Beijing,Beijing,Asia,1
+2,Guangzhou,GuangDong,Asia,1
+3,Hong Kong,Hong Kong,Asia,1
+4,Shanghai,Shanghai,Asia,1
+5,Urumqi,Xinjiang,Asia,1
+6,Stuttgart,Baden-Wuerttemberg,Europe,2
+7,Erlangen,Bavaria,Europe,2
+8,Hof,Bavaria,Europe,2
+9,Ingolstadt,Bavaria,Europe,2
+10,Munich,Bavaria,Europe,2
+11,Poing,Bavaria,Europe,2
+12,Berlin,Berlin,Europe,2
+13,Hamburg,Hamburg,Europe,2
+14,Darmstadt,Hesse,Europe,2
+15,Frankfurt,Hesse,Europe,2
+16,Kassel,Hesse,Europe,2
+17,Mühlheim am Main,Hesse,Europe,2
+18,Offenbach am Main,Hesse,Europe,2
+19,Brunswick,Lower Saxony,Europe,2
+20,Hanover,Lower Saxony,Europe,2
+21,Salzgitter,Lower Saxony,Europe,2
+22,Bonn,North Rhine-Westphalia,Europe,2
+23,Bottrop,North Rhine-Westphalia,Europe,2
+24,Dusseldorf,North Rhine-Westphalia,Europe,2
+25,Essen,North Rhine-Westphalia,Europe,2
+26,Grevenbroich,North Rhine-Westphalia,Europe,2
+27,Koln,North Rhine-Westphalia,Europe,2
+28,Munster,North Rhine-Westphalia,Europe,2
+29,Neunkirchen,North Rhine-Westphalia,Europe,2
+30,Paderborn,North Rhine-Westphalia,Europe,2
+31,Solingen,North Rhine-Westphalia,Europe,2
+32,Werne,North Rhine-Westphalia,Europe,2
+33,Saarbrücken,Saar,Europe,2
+34,Saarlouis,Saar,Europe,2
+35,Sulzbach Taunus,Saar,Europe,2
+36,Dresden,Saxony,Europe,2
+37,Eilenburg,Saxony,Europe,2
+38,Leipzig,Saxony,Europe,2
+39,Kiel,Schleswig-Holstein,Europe,2
+40,Anchorage,Alaska,North America,3
+41,Chandler,Arizona,North America,3
+42,Barstow,California,North America,3
+43,Bell Gardens,California,North America,3
+44,Bellflower,California,North America,3
+45,Berkeley,California,North America,3
+46,Beverly Hills,California,North America,3
+47,Burbank,California,North America,3
+48,Burlingame,California,North America,3
+49,Camarillo,California,North America,3
+50,Canoga Park,California,North America,3
+51,Carson,California,North America,3
+52,Cerritos,California,North America,3
+53,Chula Vista,California,North America,3
+54,Citrus Heights,California,North America,3
+55,City Of Commerce,California,North America,3
+56,Colma,California,North America,3
+57,Concord,California,North America,3
+58,Coronado,California,North America,3
+59,Daly City,California,North America,3
+60,Downey,California,North America,3
+61,El Cajon,California,North America,3
+62,Fremont,California,North America,3
+63,Glendale,California,North America,3
+64,Grossmont,California,North America,3
+65,Imperial Beach,California,North America,3
+66,La Jolla,California,North America,3
+67,Lakewood,California,North America,3
+68,Lemon Grove,California,North America,3
+69,Lincoln Acres,California,North America,3
+70,Long Beach,California,North America,3
+71,Los Angeles,California,North America,3
+72,Mill Valley,California,North America,3
+73,National City,California,North America,3
+74,Newport Beach,California,North America,3
+75,Novato,California,North America,3
+76,Oakland,California,North America,3
+77,Palo Alto,California,North America,3
+78,Redwood City,California,North America,3
+79,San Carlos,California,North America,3
+80,San Diego,California,North America,3
+81,San Francisco,California,North America,3
+82,San Gabriel,California,North America,3
+83,Santa Cruz,California,North America,3
+84,Santa Monica,California,North America,3
+85,Spring Valley,California,North America,3
+86,Torrance,California,North America,3
+87,West Covina,California,North America,3
+88,Woodland Hills,California,North America,3
+89,Aurora,Colorado,North America,3
+90,Berthoud,Colorado,North America,3
+91,Boulder,Colorado,North America,3
+92,Castle Rock,Colorado,North America,3
+93,Denver,Colorado,North America,3
+94,Englewood,Colorado,North America,3
+95,Grand Junction,Colorado,North America,3
+96,Greeley,Colorado,North America,3
+97,Lafayette,Colorado,North America,3
+98,Littleton,Colorado,North America,3
+99,Loveland,Colorado,North America,3
+100,Milliken,Colorado,North America,3
+101,New Castle,Colorado,North America,3
+102,Parker,Colorado,North America,3
+103,Sedalia,Colorado,North America,3
+104,Thornton,Colorado,North America,3
+105,Wheat Ridge,Colorado,North America,3
+106,Darien,Connecticut,North America,3
+107,Hartford,Connecticut,North America,3
+108,New Haven,Connecticut,North America,3
+109,New London,Connecticut,North America,3
+110,Old Saybrook,Connecticut,North America,3
+111,Waterbury,Connecticut,North America,3
+112,Bradenton,Florida,North America,3
+113,Cape Canaveral,Florida,North America,3
+114,Clearwater,Florida,North America,3
+115,Fort Lauderdale,Florida,North America,3
+116,Jacksonville,Florida,North America,3
+117,Key West,Florida,North America,3
+118,Lakeland,Florida,North America,3
+119,Miami,Florida,North America,3
+120,Naples,Florida,North America,3
+121,Orlando,Florida,North America,3
+122,Sebring,Florida,North America,3
+123,Tallahassee,Florida,North America,3
+124,Tampa,Florida,North America,3
+125,Byron,Georgia,North America,3
+126,Columbus,Georgia,North America,3
+127,Carol Stream,Illinois,North America,3
+128,Chicago,Illinois,North America,3
+129,Campbellsville,Kentucky,North America,3
+130,Bangor,Maine,North America,3
+131,Bar Harbor,Maine,North America,3
+132,Lewiston,Maine,North America,3
+133,Orono,Maine,North America,3
+134,South Portland,Maine,North America,3
+135,Annapolis,Maryland,North America,3
+136,Baltimore,Maryland,North America,3
+137,Bethesda,Maryland,North America,3
+138,Germantown,Maryland,North America,3
+139,Howard,Maryland,North America,3
+140,Parkville,Maryland,North America,3
+141,Ridgely,Maryland,North America,3
+142,Attleboro,Massachusetts,North America,3
+143,Boston,Massachusetts,North America,3
+144,Braintree,Massachusetts,North America,3
+145,Falmouth,Massachusetts,North America,3
+146,Framingham,Massachusetts,North America,3
+147,Haverhill,Massachusetts,North America,3
+148,Hingham,Massachusetts,North America,3
+149,Holyoke,Massachusetts,North America,3
+150,Leominster,Massachusetts,North America,3
+151,Lowell,Massachusetts,North America,3
+152,Lynn,Massachusetts,North America,3
+153,Nantucket,Massachusetts,North America,3
+154,New Bedford,Massachusetts,North America,3
+155,Northampton,Massachusetts,North America,3
+156,Pittsfield,Massachusetts,North America,3
+157,Provincetown,Massachusetts,North America,3
+158,Quincy,Massachusetts,North America,3
+159,Somerville,Massachusetts,North America,3
+160,Worcester,Massachusetts,North America,3
+161,Branch,Minnesota,North America,3
+162,Billings,Montana,North America,3
+163,Atlantic City,New Jersey,North America,3
+164,Bayonne,New Jersey,North America,3
+165,Cape May,New Jersey,North America,3
+166,Clifton,New Jersey,North America,3
+167,East Orange,New Jersey,North America,3
+168,Hackensack,New Jersey,North America,3
+169,Hoboken,New Jersey,North America,3
+170,Jersey City,New Jersey,North America,3
+171,Montclair,New Jersey,North America,3
+172,Morristown,New Jersey,North America,3
+173,New Brunswick,New Jersey,North America,3
+174,Newark,New Jersey,North America,3
+175,Passaic,New Jersey,North America,3
+176,Paterson,New Jersey,North America,3
+177,Trenton,New Jersey,North America,3
+178,Vineland,New Jersey,North America,3
+179,Albany,New York,North America,3
+180,Brooklyn,New York,North America,3
+181,Buffalo,New York,North America,3
+182,Central Valley,New York,North America,3
+183,Cheektowaga,New York,North America,3
+184,Clay,New York,North America,3
+185,Elmira,New York,North America,3
+186,Ithaca,New York,North America,3
+187,New York,New York,North America,3
+188,Oswego,New York,North America,3
+189,Plattsburgh,New York,North America,3
+190,Poestenkill,New York,North America,3
+191,Rochester,New York,North America,3
+192,Syracuse,New York,North America,3
+193,Charlotte,North Carolina,North America,3
+194,Cincinnati,Ohio,North America,3
+195,Columbus,Ohio,North America,3
+196,Beaverton,Oregon,North America,3
+197,Clackamas,Oregon,North America,3
+198,Corvallis,Oregon,North America,3
+199,Lake Oswego,Oregon,North America,3
+200,Lebanon,Oregon,North America,3
+201,Milwaukie,Oregon,North America,3
+202,Oregon City,Oregon,North America,3
+203,Portland,Oregon,North America,3
+204,Salem,Oregon,North America,3
+205,W. Linn,Oregon,North America,3
+206,Woodburn,Oregon,North America,3
+207,Bluffton,South Carolina,North America,3
+208,Charleston,South Carolina,North America,3
+209,Greenville,South Carolina,North America,3
+210,Arlington,Texas,North America,3
+211,Austin,Texas,North America,3
+212,Baytown,Texas,North America,3
+213,Beaumont,Texas,North America,3
+214,Carrollton,Texas,North America,3
+215,Cedar Park,Texas,North America,3
+216,College Station,Texas,North America,3
+217,Dallas,Texas,North America,3
+218,Denton,Texas,North America,3
+219,Desoto,Texas,North America,3
+220,Fort Worth,Texas,North America,3
+221,Georgetown,Texas,North America,3
+222,Grand Prairie,Texas,North America,3
+223,Hillsboro,Texas,North America,3
+224,Houston,Texas,North America,3
+225,Humble,Texas,North America,3
+226,La Porte,Texas,North America,3
+227,Lewisville,Texas,North America,3
+228,Longview,Texas,North America,3
+229,Marshall,Texas,North America,3
+230,Midland,Texas,North America,3
+231,Minden,Texas,North America,3
+232,Orange,Texas,North America,3
+233,Pasadena,Texas,North America,3
+234,Plano,Texas,North America,3
+235,Richardson,Texas,North America,3
+236,Round Rock,Texas,North America,3
+237,Russellville,Texas,North America,3
+238,San Antonio,Texas,North America,3
+239,Shreveport,Texas,North America,3
+240,Spring,Texas,North America,3
+241,Texas City,Texas,North America,3
+242,Bountiful,Utah,North America,3
+243,Cedar City,Utah,North America,3
+244,Alexandria,Virginia,North America,3
+245,Chantilly,Virginia,North America,3
+246,Charlottesville,Virginia,North America,3
+247,Fredericksburg,Virginia,North America,3
+248,Martinsville,Virginia,North America,3
+249,Norfolk,Virginia,North America,3
+250,Roanoke,Virginia,North America,3
+251,Virginia Beach,Virginia,North America,3
+252,Winchester,Virginia,North America,3
+253,Ballard,Washington,North America,3
+254,Bellevue,Washington,North America,3
+255,Bellingham,Washington,North America,3
+256,Bothell,Washington,North America,3
+257,Bremerton,Washington,North America,3
+258,Burien,Washington,North America,3
+259,Cheney,Washington,North America,3
+260,Cle Elum,Washington,North America,3
+261,Edmonds,Washington,North America,3
+262,Everett,Washington,North America,3
+263,Fall City,Washington,North America,3
+264,Granger,Washington,North America,3
+265,Issaquah,Washington,North America,3
+266,Kennewick,Washington,North America,3
+267,Kirkland,Washington,North America,3
+268,Lynnwood,Washington,North America,3
+269,Marysville,Washington,North America,3
+270,North Bend,Washington,North America,3
+271,Olympia,Washington,North America,3
+272,Port Orchard,Washington,North America,3
+273,Puyallup,Washington,North America,3
+274,Redmond,Washington,North America,3
+275,Renton,Washington,North America,3
+276,Seattle,Washington,North America,3
+277,Sedro Woolley,Washington,North America,3
+278,Snoqualmie,Washington,North America,3
+279,Spokane,Washington,North America,3
+280,Sunnyside,Washington,North America,3
+281,Tacoma,Washington,North America,3
+282,Toppenish,Washington,North America,3
+283,Veradale,Washington,North America,3
+284,Walla Walla,Washington,North America,3
+285,Wapato,Washington,North America,3
+286,Yakima,Washington,North America,3
+287,Appleton,Wisconsin,North America,3
+288,Burlington,Wisconsin,North America,3
+289,East Troy,Wisconsin,North America,3
+290,Edgerton,Wisconsin,North America,3
+291,Fond du Lac,Wisconsin,North America,3
+292,Fort Atkinson,Wisconsin,North America,3
+293,Green Bay,Wisconsin,North America,3
+294,Madison,Wisconsin,North America,3
+295,Manitowoc,Wisconsin,North America,3
+296,Menasha,Wisconsin,North America,3
+297,Milwaukee,Wisconsin,North America,3
+298,Oregon,Wisconsin,North America,3
+299,Oshkosh,Wisconsin,North America,3
+300,Port Washington,Wisconsin,North America,3
+301,Racine,Wisconsin,North America,3
+302,Sheboygan,Wisconsin,North America,3
+303,Stoughton,Wisconsin,North America,3
+304,Waukesha,Wisconsin,North America,3
+305,Casper,Wyoming,North America,3
+306,Cheyenne,Wyoming,North America,3
