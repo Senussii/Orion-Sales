@@ -8,7 +8,7 @@
 
 ```
 .
-├── data/
+├── data.rar/
 │   ├── Sales.json                  # Raw transactional sales data (~298K records)
 │   └── forecast.json               # 2009 brand-country forecast targets (33 records)
 │
@@ -32,7 +32,7 @@
 
 ## 🏗️ Architecture Overview
 
-![ETL Workflow Diagram](Workflow_Diagram.png)
+![docs](docs/Workflow%20Diagram.png)
 
 ---
 
