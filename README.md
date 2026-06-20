@@ -89,7 +89,7 @@ Two fact tables share a common set of dimension tables:
 ### Prerequisites
 
 ```bash
-pip install pandas
+pip install ETL/requirements.txt
 ```
 
 ### Run the Pipeline
